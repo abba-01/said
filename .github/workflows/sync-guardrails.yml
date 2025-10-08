@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - 'edm.guardrails_live.json'
+      - '.ai/**'
   workflow_dispatch:
 
 jobs:
@@ -40,12 +41,16 @@ jobs:
         run: |
           cp said/edm.guardrails_live.json ${{ matrix.repo }}/SAID/
 
+      - name: Sync .ai directory
+        run: |
+          cp -r said/.ai ${{ matrix.repo }}/ || echo "No .ai directory to sync"
+
       - name: Commit and push if changed
         run: |
           cd ${{ matrix.repo }}
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
-          git add SAID/edm.guardrails_live.json
+          git add SAID/edm.guardrails_live.json .ai/
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
