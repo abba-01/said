@@ -1,0 +1,58 @@
+name: Sync Guardrails to Repositories
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'edm.guardrails_live.json'
+  workflow_dispatch:
+
+jobs:
+  sync-to-repos:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        repo:
+          - nualgebra
+          - nualgebra_psychology
+          - nualgebra_anthropology
+
+    steps:
+      - name: Checkout said repo
+        uses: actions/checkout@v4
+        with:
+          repository: abba-01/said
+          path: said
+
+      - name: Checkout target repo
+        uses: actions/checkout@v4
+        with:
+          repository: abba-01/${{ matrix.repo }}
+          path: ${{ matrix.repo }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Create SAID directory if not exists
+        run: |
+          mkdir -p ${{ matrix.repo }}/SAID
+
+      - name: Copy guardrails file
+        run: |
+          cp said/edm.guardrails_live.json ${{ matrix.repo }}/SAID/
+
+      - name: Commit and push if changed
+        run: |
+          cd ${{ matrix.repo }}
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add SAID/edm.guardrails_live.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: Sync guardrails from abba-01/said
+
+Auto-synced edm.guardrails_live.json from source repository
+
+🤖 Generated with GitHub Actions"
+            git push
+          fi
