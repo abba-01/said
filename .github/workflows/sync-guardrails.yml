@@ -49,10 +49,8 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "chore: Sync guardrails from abba-01/said
-
-Auto-synced edm.guardrails_live.json from source repository
-
-🤖 Generated with GitHub Actions"
+            git commit -m "chore: Sync guardrails from abba-01/said" \
+                       -m "Auto-synced edm.guardrails_live.json from source repository" \
+                       -m "🤖 Generated with GitHub Actions"
             git push
           fi
