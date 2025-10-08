@@ -30,7 +30,7 @@ jobs:
         with:
           repository: abba-01/${{ matrix.repo }}
           path: ${{ matrix.repo }}
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_TOKEN }}
 
       - name: Create SAID directory if not exists
         run: |
