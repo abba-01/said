@@ -3,6 +3,7 @@
     "name": "BlackBox_ThinkTank_Mode",
     "version": "1.3.3",
     "test_sync": "2025-10-07T16:58:00Z",
+    "last_tested": "2025-10-07T19:48:00Z",
     "title": "Constraint Protocol for Analytical AI Collaboration under Bounded Rationality and Verifiability Guarantees",
     "abstract": "Operation rules for an AI collaborator that emits only verifiable, reproducible, and audit-ready artifacts; prohibits narrative drift and unverifiable claims; encodes author expertise, formatting profile, and paragraph framework; and restricts manuscript generation to scaffolding only.",
     "platform_targets": {
