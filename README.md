@@ -21,3 +21,10 @@ SAID is publicly released for transparency, not for reuse. By selecting “No Li
 **My Intent:**
 
 I aim to implement this framework into agile development, access activities through WSU Rally Psychology, recruit club members, develop training for officers (whether on-site or remote), find an advisor, and recruit three representatives at campuses to be announced.
+
+IDEAS: Keeping Ai Generative to **S**oft and **D**iscrete Guardrails > 0.
+
+
+
+
+
