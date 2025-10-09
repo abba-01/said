@@ -1,29 +1,23 @@
-# SAID is the SCIENTIFIC ACADEMIC INTEGRITY DISCLOSURE 
+**SAID: Scientific Academic Integrity Disclosure**
 
-**Transparent AI-Audited Framework for Scientific Integrity and Reproducible Research on GitHub**
+The SAID framework is a Transparent AI-Audited Framework designed to uphold scientific integrity and reproducible research on GitHub. 
 
-The SOFT MANIFESTO (Scientific Academic Integrity Disclosure) is a voluntary, open framework designed to document human oversight and computational provenance for every research output. Developed from the principles of HUMINT governance and AI auditability, SAID empowers students to disclose—not defend—the role of automation in their work. The protocol offers a straightforward template for reports, theses, and publications, promoting transparency without unnecessary bureaucracy.
+**Overview of the SOFT MANIFESTO:** 
 
-**Disclose, Not Defend:** To disclose is to advocate from a position of understanding. It implies mastery, enabling open discourse and the possibility of critique or rejection. These values can help academics navigate the balance between epistemic value and scientific structure. Without the iterative process of epistemological exploration, a cohesive definition of science cannot form. This idea is still a work in progress.
+The SOFT MANIFESTO (Scientific Academic Integrity Disclosure) is a voluntary, open framework that documents human oversight and computational provenance for each research output. Developed based on the principles of HUMINT governance and AI auditability, SAID empowers students to disclose—not defend—the role automation plays in their work. This protocol provides a straightforward template for reports, theses, and publications, promoting transparency while minimizing bureaucratic processes.
 
-*Soft Manifesto:* This represents an edge-vectored approach to balancing nominal certainty values with the uncertainty that adaptation may introduce. An outside force, such as new technology or a paradigm shift, can challenge the epistemic origins from a standpoint of resistance. In this context, the epistemic value may be treated as negative relative to a starting point that exists after zero, creating a complex interplay of values over time. This concept is also still a work in progress.
+**Disclose, Not Defend:**
 
-## License Intent
+To disclose means to advocate from a position of understanding, indicating mastery over the subject matter. This approach encourages open discourse and the potential for critique or rejection. Embracing these values can help academics balance epistemic value with scientific structure. Without an iterative process of epistemological exploration, a cohesive definition of science cannot emerge. This concept is still a work in progress.
 
-SAID is released publicly for transparency, not for reuse.
-By selecting “No License” on GitHub, the author explicitly reserves all rights
-and declares that no existing open-source license adequately represents the
-project’s principles. A formal SAID License governs any permitted use.
+**Soft Manifesto Approach:**
 
-# My Intent
+The Soft Manifesto represents an edge-vectored approach to balancing certain values with the uncertainties that adaptation may introduce. External forces, such as new technologies or paradigm shifts, can challenge the epistemic origins from a standpoint of resistance. In this context, epistemic value may be treated as negative relative to a starting point that exists above zero, creating a complex interplay of values over time. This idea is also still under development.
 
-Implement into agile development
-Access Activities as WSU
-Rally Psychology
-Find club members
-Figure out training for officers is on site or not
-Find an advisor
-Recruit 3 at campuses to be revealed
+**License Intent:**
 
+SAID is publicly released for transparency, not for reuse. By selecting “No License” on GitHub, the author explicitly reserves all rights, stating that no existing open-source license appropriately represents the project’s principles. A formal SAID License will govern any permitted use.
 
+**My Intent:**
 
+I aim to implement this framework into agile development, access activities through WSU Rally Psychology, recruit club members, develop training for officers (whether on-site or remote), find an advisor, and recruit three representatives at campuses to be announced.
