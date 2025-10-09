@@ -4,7 +4,7 @@ Transparent AI-audited framework for scientific integrity and reproducible resea
 
 SOFT MANIFESTO(*) SAID (Scientific Academic Integrity Disclosure) is a voluntary, open framework that documents human oversight and computational provenance for every research output. Developed from the principles of HUMINT governance and AI auditability, SAID empowers students to disclose—not defend—the role of automation in their work. The protocol provides a simple template for reports, theses, and publications, promoting transparency without bureaucracy.
 
-Disclose not defend: To disclose is to defend from a position of intelligence to the thing. It implies mastery to at least be abel to invite open discourse and possible negation or rejection.
+Disclose not defend: To disclose is to defend from a position of intelligence to the thing. It implies mastery to at least be abel to invite open discourse and possible negation or rejection. These are demonstrable values that academics can use as teh adhesion between epistemic value vs scietific structure. Without the episytemic flight of iteration there cannot form stuctuure that can define science.....work in progress.....
 
 *Soft Manifesto (edge vectored approach to a nominal certinty value paired with the uncertainty that the adaptation removes the value from...work in progress....outside force... new technology or paradigm from which the epistemic origins start from a resistence. The epistemic value is negative to a value place that starts after 0 ) 
 
