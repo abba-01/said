@@ -1,12 +1,12 @@
 # SAID is the SCIENTIFIC ACADEMIC INTEGRITY DISCLOSURE 
 
-Transparent AI-audited framework for scientific integrity and reproducible research on GitHub.
+**Transparent AI-Audited Framework for Scientific Integrity and Reproducible Research on GitHub**
 
-SOFT MANIFESTO(*) SAID (Scientific Academic Integrity Disclosure) is a voluntary, open framework that documents human oversight and computational provenance for every research output. Developed from the principles of HUMINT governance and AI auditability, SAID empowers students to disclose—not defend—the role of automation in their work. The protocol provides a simple template for reports, theses, and publications, promoting transparency without bureaucracy.
+The SOFT MANIFESTO (Scientific Academic Integrity Disclosure) is a voluntary, open framework designed to document human oversight and computational provenance for every research output. Developed from the principles of HUMINT governance and AI auditability, SAID empowers students to disclose—not defend—the role of automation in their work. The protocol offers a straightforward template for reports, theses, and publications, promoting transparency without unnecessary bureaucracy.
 
-Disclose not defend: To disclose is to defend from a position of intelligence to the thing. It implies mastery to at least be abel to invite open discourse and possible negation or rejection. These are demonstrable values that academics can use as teh adhesion between epistemic value vs scietific structure. Without the episytemic flight of iteration there cannot form stuctuure that can define science.....work in progress.....
+**Disclose, Not Defend:** To disclose is to advocate from a position of understanding. It implies mastery, enabling open discourse and the possibility of critique or rejection. These values can help academics navigate the balance between epistemic value and scientific structure. Without the iterative process of epistemological exploration, a cohesive definition of science cannot form. This idea is still a work in progress.
 
-*Soft Manifesto (edge vectored approach to a nominal certinty value paired with the uncertainty that the adaptation removes the value from...work in progress....outside force... new technology or paradigm from which the epistemic origins start from a resistence. The epistemic value is negative to a value place that starts after 0 ) 
+*Soft Manifesto:* This represents an edge-vectored approach to balancing nominal certainty values with the uncertainty that adaptation may introduce. An outside force, such as new technology or a paradigm shift, can challenge the epistemic origins from a standpoint of resistance. In this context, the epistemic value may be treated as negative relative to a starting point that exists after zero, creating a complex interplay of values over time. This concept is also still a work in progress.
 
 ## License Intent
 
